@@ -1,0 +1,11 @@
+This is a text file which describes the set of user on homecontrol. Don't change tab name or order whitout change matching code.
+This row marks where the table start. Don't changes this row place and spelling.
+Acesslevel	Celluar phones	Mail adress	Valid until
+StartOfTables
+3,+4673418227,thomas.fluur@gmail.com,-
+1,+46317792396,fluur.bergkvist@gmail.com,-
+2,+4673418227,Mikael.fluur@gmail.com,2016-10-23
+3,+46709450380,fluur.bergkvist@gmail.com,2017-10-5
+2,+46317792396AS,safsa,-
+
+hej
