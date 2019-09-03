@@ -1,7 +1,0 @@
-C:\Users\thoma\Dropbox\DevProj\PowerSupplyControl\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
-C:\Users\thoma\Dropbox\DevProj\PowerSupplyControl\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
-C:\Users\thoma\Dropbox\DevProj\PowerSupplyControl\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
-C:\Users\thoma\Dropbox\DevProj\PowerSupplyControl\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
-C:\Users\thoma\Dropbox\DevProj\PowerSupplyControl\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
-C:\Users\thoma\Dropbox\DevProj\PowerSupplyControl\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
-C:\Users\thoma\Dropbox\DevProj\PowerSupplyControl\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
